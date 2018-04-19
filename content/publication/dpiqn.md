@@ -26,7 +26,7 @@ abstract = ""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = "img/dpiqn.img"
+image_preview = "img/dpiqn.png"
 
 # Is this a selected publication? (true/false)
 selected = true
