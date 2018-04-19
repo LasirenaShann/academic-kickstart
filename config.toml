@@ -55,7 +55,7 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ {name = "Department of Computer Science", url = "http://web.cs.nthu.edu.tw/bin/home.php"}, { name = "National Tsing Hua University", url = "http://www.nthu.edu.tw/" } ]
+  organizations = [ {name = "Department of Computer Science", url = ""}, { name = "National Tsing Hua University", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "ariel.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -254,19 +254,9 @@ defaultContentLanguageInSubdir = false
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
-
-[[menu.main]]
   name = "Projects"
   url = "#projects"
   weight = 4
-
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
 
 [[menu.main]]
   name = "Contact"
