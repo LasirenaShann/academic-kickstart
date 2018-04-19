@@ -9,3 +9,7 @@
 	path = lasirenashann.github.io
 	url = https://github.com/LasirenaShann/lasirenashann.github.io.git
 	branch = master
+[submodule "Public"]
+	path = Public
+	url = https://github.com/LasirenaShann/lasirenashann.github.io.git
+	branch = master
