@@ -27,14 +27,9 @@ weight = 5
   institution = "National Tsing Hua University"
   year = "2014-2017"
 
-[[education.courses]]
-  course = "Computer Science and Engineering"
-  institution = "National Chung Hsing University"
-  year = "2013-2014"
- 
 +++
 
 # Hi
 
-I am currently a research assistant at [National Tsing Hua University](http://www.nthu.edu.tw/). I will be doing my MSc in Computer Science at [University of British Columbia](https://www.ubc.ca/) this September.
+I am currently a research assistant at [National Tsing Hua University](http://www.nthu.edu.tw/). I will be doing my MSc in [Computer Science](https://www.cs.ubc.ca/) at [University of British Columbia](https://www.ubc.ca/) this September.
 
