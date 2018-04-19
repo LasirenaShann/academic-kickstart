@@ -1,10 +1,10 @@
 +++
-title = "A Deep Policy Inference Q-Network for Multi-Agent Systems"
-date = 2018-04-19T23:39:49+08:00
+title = "Virtual to Real: Learning to Control in Visual Semantic Segmentation"
+date = 2018-04-20T00:04:55+08:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Tzu-Yun Shann**", "Zhang-Wei Hong", "Shih-Yang Su", "Yi-Hsiang Chang", "Chun-Yi Lee"]
+authors = ["Zhang-Wei Hong", "Yu-Ming Chen", "Hsuan-Kung Yang", "Shih-Yang Su", "**Tzu-Yun Shann**", "Yi-Hsiang Chang", "Brian Hsi-Lin Ho", "Chih-Chieh Tu", "Tzu-Ching Hsiao", "Hsin-Wei Hsiao", "Sih-Pin Lai", "Yueh-Chuan Chang", "Chun-Yi Lee"]
 
 # Publication type.
 # Legend:
@@ -18,15 +18,15 @@ authors = ["**Tzu-Yun Shann**", "Zhang-Wei Hong", "Shih-Yang Su", "Yi-Hsiang Cha
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Int. Conf. Autonomous Agent and Multi-Agent Systems"
-publication_short = "AAMAS"
+publication = "Int. Joint Conf. Artificial Intelligence"
+publication_short = "IJCAI"
 
 # Abstract and optional shortened version.
 abstract = ""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = "dpiqn.png"
+image_preview = "ijcai.png"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -42,16 +42,15 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "pdf/aamas-2018-dpiqn.pdf"
-url_preprint = "https://arxiv.org/abs/1712.07893"
-url_code = "https://github.com/williamd4112/infer-policy-feature"
+url_pdf = "pdf/ijcai-2018-virtual.pdf"
+url_preprint = "https://arxiv.org/abs/1802.00285"
+url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = ""
+url_video = "https://goo.gl/gdqcB8"
 url_poster = ""
 url_source = ""
-#url_bib = [{name = "Bibtex", url = "\{\{\< relref "dpiqn.md#bibtex" \>\}\}"}]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -70,15 +69,3 @@ image = ""
 caption = ""
 
 +++
-
-# Bibtex
-```tex
-@article{hong2018dpiqn,
-  title={A Deep Policy Inference Q-Network for Multi-Agent Systems},
-  author={Hong, Zhang-Wei and Su, Shih-Yang and Shann, Tzu-Yun and Chang, Yi-Hsiang and Lee, Chun-Yi},
-  journal={arXiv preprint arXiv:1712.07893},
-  year={2018}
-}
-```
-
-
