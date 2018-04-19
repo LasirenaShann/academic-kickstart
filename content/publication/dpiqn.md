@@ -4,7 +4,7 @@ date = 2018-04-19T23:39:49+08:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Zhang-Wei Hong*", "Shih-Yang Su*", "Tzu-Yun Shann*", "Yi-Hsiang Chang", "Chun-Yi Lee"]
+authors = ["Zhang-Wei Hong{*}", "Shih-Yang Su{*}", "Tzu-Yun Shann{*}", "Yi-Hsiang Chang", "Chun-Yi Lee"]
 
 # Publication type.
 # Legend:
@@ -26,7 +26,7 @@ abstract = ""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = "img/dpiqn.png"
+image_preview = "dpiqn.png"
 
 # Is this a selected publication? (true/false)
 selected = true
