@@ -6,7 +6,7 @@
 baseurl = "https://lasirenashann.github.io/"
 
 # Title of your site
-title = "Tzu-Yun (Ariel) Shann"
+title = "Tzu-Yun Ariel Shann"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -50,7 +50,7 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Tzu-Yun (Ariel) Shann"
+  name = "Tzu-Yun Ariel Shann"
   role = "Research Assistant"
 
   # Organizations/Affiliations.
