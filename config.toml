@@ -6,7 +6,7 @@
 baseurl = "https://lasirenashann.github.io/"
 
 # Title of your site
-title = "Ariel Shann"
+title = "Tzu-Yun (Ariel) Shann"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -50,7 +50,7 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Ariel Shann"
+  name = "Tzu-Yun (Ariel) Shann"
   role = "Research Assistant"
 
   # Organizations/Affiliations.
@@ -60,11 +60,11 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "arielshann@gapp.nthu.edu.tw"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
+  address = ""
+  office_hours = ""
+  phone = ""
+  skype = ""
+  telegram = "arielshann"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -226,7 +226,7 @@ defaultContentLanguageInSubdir = false
 
   [[params.social]]
     icon = "linkedin"
-    icon_pack = "ai"
+    icon_pack = "fa"
     link = "https://www.linkedin.com/in/tzu-yun-ariel-shann-722b1215b/"
 
   [[params.social]]
