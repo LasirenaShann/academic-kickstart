@@ -31,5 +31,5 @@ weight = 5
 
 # Hi
 
-I am currently a research assistant at [National Tsing Hua University](http://www.nthu.edu.tw/). I will be doing my MSc in [Computer Science](https://www.cs.ubc.ca/) at [University of British Columbia](https://www.ubc.ca/) this September.
+I am currently a research assistant at [National Tsing Hua University](http://www.nthu.edu.tw/). I will be doing my MSc in [Computer Science](https://www.cs.ubc.ca/) at [University of British Columbia](https://www.ubc.ca/) starting this September.
 
