@@ -20,12 +20,12 @@ weight = 5
 [[education.courses]]
   course = "MSc in Computer Science"
   institution = "University of British Columbia"
-  year = "2018-"
+  year = ""
 
 [[education.courses]]
   course = "BSc in Computer Science"
   institution = "National Tsing Hua University"
-  year = "2014-2017"
+  year = "2017"
 
 +++
 
