@@ -39,7 +39,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Reinforcement Learning", "Multi-Agent Systems"]
 
 # Links (optional).
 url_pdf = "pdf/aamas-2018-dpiqn.pdf"
@@ -51,7 +51,6 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-#url_bib = [{name = "Bibtex", url = "\{\{\< relref "dpiqn.md#bibtex" \>\}\}"}]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -66,12 +65,12 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
+image = "dpiqn.png"
 caption = ""
 
 +++
 
-# Bibtex
+## Bibtex
 ```tex
 @article{hong2018dpiqn,
   title={A Deep Policy Inference Q-Network for Multi-Agent Systems},
