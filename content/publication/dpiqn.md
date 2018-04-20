@@ -1,6 +1,6 @@
 +++
 title = "A Deep Policy Inference Q-Network for Multi-Agent Systems"
-date = 2018-07-10T00:00:00+08:00
+date = 2018-04-20T00:00:00+08:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
