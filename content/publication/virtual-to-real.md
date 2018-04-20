@@ -69,3 +69,14 @@ image = ""
 caption = ""
 
 +++
+
+## Bibtex
+```tex
+@inproceedings{hong2018virtual,
+  title={Virtual to Real: Learning to Control in Visual Semantic Segmentation},
+  author={Hong, Zhang-Wei and Chen, Yu-Min and Yang, Hsuan-Kung and Su, Shih-Yang and Shann, Tzu-Yun and Chang, Yi-Hsiang and Ho, Brian Hsi-Lin and Tu, Chih-Chieh and Lai, Sih-Pin and Chang, Yueh-Chuan and Lee, Chun-Yi},
+  booktitle={Proc. Int. Joint Conf. Artificial Intelligence (IJCAI)},
+  month={Jul.},
+  year={2018}
+}
+```

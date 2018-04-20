@@ -69,3 +69,14 @@ image = ""
 caption = ""
 
 +++
+
+## Bibtex
+```tex
+@inproceedings{hong2018div,
+  title={Diversity-Driven Exploration Strategy for Deep Reinforcement Learning},
+  author={Hong, Zhang-Wei and Shann, Tzu-Yun and Su, Shih-Yang and Chang, Yi-Hsiang and Lee, Chun-Yi},
+  booktitle={Proc. Int. Conf. Learning Representations (ICLR) Workshop},
+  month={Apr.},
+  year={2018}
+}
+```

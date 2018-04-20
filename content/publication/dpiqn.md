@@ -72,10 +72,11 @@ caption = ""
 
 ## Bibtex
 ```tex
-@article{hong2018dpiqn,
+@inproceedings{hong2018dpiqn,
   title={A Deep Policy Inference Q-Network for Multi-Agent Systems},
   author={Hong, Zhang-Wei and Su, Shih-Yang and Shann, Tzu-Yun and Chang, Yi-Hsiang and Lee, Chun-Yi},
-  journal={arXiv preprint arXiv:1712.07893},
+  booktitle={Proc. Int. Conf. Autonomous Agents and Multiagent Systems (AAMAS)},
+  month={Jul.},
   year={2018}
 }
 ```
