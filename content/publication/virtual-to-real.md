@@ -1,6 +1,6 @@
 +++
 title = "Virtual to Real: Learning to Control in Visual Semantic Segmentation"
-date = 2018-04-20T00:04:55+08:00
+date = 2018-04-10T00:04:55+08:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,12 +18,12 @@ authors = ["Zhang-Wei Hong", "Yu-Ming Chen", "Hsuan-Kung Yang", "Shih-Yang Su", 
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Int. Joint Conf. Artificial Intelligence"
+publication = "International Joint Conference on Artificial Intelligence"
 publication_short = "IJCAI"
 
 # Abstract and optional shortened version.
-abstract = ""
-abstract_short = ""
+abstract = "Collecting training data from the physical world is usually time-consuming and even dangerous for fragile robots, and thus, recent advances in robot learning advocate the use of simulators as the training platform. Unfortunately, the reality gap between synthetic and real visual data prohibits direct migration of the models trained in virtual worlds to the real world. This paper proposes a modular architecture for tackling the virtual-to-real problem. The proposed architecture separates the learning model into a perception module and a control policy module, and uses semantic image segmentation as the meta representation for relating these two modules.  The perception module translates the perceived RGB image to semantic image segmentation.  The control policy module is implemented as a deep reinforcement learning agent, which performs actions based on the translated image segmentation. Our architecture is evaluated in an obstacle avoidance task and a target following task.  Experimental results show that our architecture significantly outperforms all of the baseline methods in both virtual and real environments, and demonstrates a faster learning curve than them.  We also present a detailed analysis for a variety of variant configurations, and validate the transferability of our modular architecture."
+abstract_short = "This paper proposes a modular architecture for tackling the virtual-to-real problem. The proposed architecture separates the learning model into a perception module and a control policy module, and uses semantic image segmentation as the meta representation for relating these two modules to bridge the gap between synthetic and real visual data."
 
 # Featured image thumbnail (optional)
 image_preview = "ijcai.png"
