@@ -55,7 +55,7 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "National Tsing Hua University", url = "" } ]
+  organizations = [ {name = "Department of Computer Science", url=""}, { name = "National Tsing Hua University", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "ariel.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -234,6 +234,10 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "//github.com/lasirenashann"
 
+  [[params.social]]
+    icon = "file-pdf"
+    icon_pack = "fa"
+    link = "pdf/resume.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
